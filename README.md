@@ -15,7 +15,7 @@ Install Helm client as per one of recomended [ways]()https://docs.helm.sh/using_
 Then install the latest plugin version:
 
 ```console
-helm plugin install https://github.com/rimusz/helm-tiller
+helm plugin install https://github.com/tiancai-hq/helm-tiller
 ```
 
 ## Usage
